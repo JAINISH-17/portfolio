@@ -3,7 +3,7 @@ This is my personal developer portfolio website built using HTML, CSS, and some 
 
 🌐 Live Demo
 ## 🌐 Live Demo
-[👉 View Portfolio](https://J:/index1.html)  _
+[👉 View Portfolio](https://portfolio)  _
 
 ---
 ## 📌 Features
@@ -41,3 +41,5 @@ This is my personal developer portfolio website built using HTML, CSS, and some 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+
