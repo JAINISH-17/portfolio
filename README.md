@@ -3,6 +3,6 @@ This is my personal developer portfolio website built using HTML, CSS, and some 
 
 🌐 Live Demo
 ## 🌐 Live Demo
-[👉 View Portfolio](https://vansh-1101.github.io/)  _
+[👉 View Portfolio](https://JAINISH-17.portfolio/)  _
 
 ---
