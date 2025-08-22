@@ -3,7 +3,7 @@ This is my personal developer portfolio website built using HTML, CSS, and some 
 
 🌐 Live Demo
 ## 🌐 Live Demo
-[👉 View Portfolio](file:///J:/index1.html)  _
+[👉 View Portfolio](https://J:/index1.html)  _
 
 ---
 ## 📌 Features
